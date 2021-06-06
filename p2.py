@@ -11,7 +11,6 @@ def read_file(input_file):
 
 #轉換檔案
 def convert(lines):
-	person = None #其他語言是null
 	allen_word_count = 0
 	viki_word_count = 0
 	allen_sticker_count = 0
