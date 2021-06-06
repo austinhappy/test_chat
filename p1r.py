@@ -1,4 +1,4 @@
-# 練習題1比較
+# 練習題1比較 #老師版本
 
 #讀取檔案
 def read_file(input_file):
